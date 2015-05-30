@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_item_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@android:drawable/ic_menu_search"
+        android:showAsAction="ifRoom"
+        android:title="@string/search"/>
+    <item
+        android:id="@+id/menu_item_clear"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:showAsAction="ifRoom"
+        android:title="@string/clear_search"/>
+    <item
+        android:id="@+id/menu_item_toggle_polling"
+        android:showAsAction="ifRoom"
+        android:title="@string/start_polling"/>
+    <item
+        android:id="@+id/vibrate"
+        android:checkable="true"
+        android:title="@string/vibrate"/>
+    <item
+        android:id="@+id/sound"
+        android:checkable="true"
+        android:title="@string/sound"/>
+    <item
+        android:id="@+id/menu_item_calendar"
+        android:icon="@drawable/calendar_icon1"
+        android:showAsAction="ifRoom"
+        android:title="@string/open_calendar"/>
+
+</menu>

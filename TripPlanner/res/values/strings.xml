@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TripPlanner</string>
+   <string name="menu_settings">Settings</string>
+    <string name="title_activity_photo_gallery">Trip Planner Activity</string>
+    <string name="search_hint">Search Flickr</string>
+    <string name="search">Search</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="start_polling">Poll for new pictures</string>
+    <string name="stop_polling">Stop polling</string>
+    <string name="new_pictures_title">New PhotoGallery Pictures</string>
+    <string name="new_pictures_text">You have new pictures in PhotoGallery.</string>
+    <string name="open_calendar">Calendar</string>
+	<string name="vibrate">Vibrate</string>
+	<string name="sound">Sound</string>
+	<string name="key_notifications_ringtone"></string>
+</resources>
